@@ -8,3 +8,11 @@ My name is Karolina Milewska. I graduated in Cosmetology at the Faculty of Medic
 * Software testing
 * Creating test cases
 * Reporting bugs
+## Tools
+* Postman
+* Jira
+* GIT
+## Courses
+Software Tester SD Academy (in progress)
+
+
