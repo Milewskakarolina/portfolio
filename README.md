@@ -17,6 +17,9 @@ My name is Karolina Milewska. I graduated in Cosmetology at the Faculty of Medic
 * Udemy – „GIT from scratch for everyone”
 * Udemy – „Postman from scratch - testing REST API”
 * Udemy – „Basics of manual software testing”
+## Groups on Facebook
+Kurs tester manualny
+Mamo pracuj w IT
 ## Test Case Examples
 [Test cases Swag Labs](https://docs.google.com/spreadsheets/d/1xxV1o4rE0wfo5t3F0Nc-PbBY750YWfJo/edit?usp=sharing&ouid=112853203756638553941&rtpof=true&sd=true)
 ## Bag Reports 
