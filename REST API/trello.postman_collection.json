@@ -8,7 +8,7 @@
 		{
 			"name": "tworzenie nowego requesta",
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": []
 			},
 			"response": []
@@ -24,7 +24,7 @@
 		{
 			"name": "Create a List on a Board",
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": []
 			},
 			"response": []
@@ -40,7 +40,7 @@
 		{
 			"name": "tworzenie nowej karty",
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": []
 			},
 			"response": []
@@ -56,7 +56,7 @@
 		{
 			"name": "aktualizacja karty",
 			"request": {
-				"method": "GET",
+				"method": "PUT",
 				"header": []
 			},
 			"response": []
@@ -64,7 +64,7 @@
 		{
 			"name": "usuwanie kart",
 			"request": {
-				"method": "GET",
+				"method": "DELETE",
 				"header": []
 			},
 			"response": []
