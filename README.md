@@ -25,4 +25,5 @@ My name is Karolina Milewska. I graduated in Cosmetology at the Faculty of Medic
 ## Bag Reports 
 * [Bag Reports](https://docs.google.com/document/d/1tppwp0gmg1q1M9PpPTl8zPFz5NvLF4t9/edit?usp=sharing&ouid=112853203756638553941&rtpof=true&sd=true)  - [REC SCREEN Bag Swag Labs](https://drive.google.com/file/d/1pUErJhQoJY6uXah6yGuW2PQ8monqztm8/view?usp=sharing)
 ## REST API Examples
-* [REST API Examples](https://github.com/Milewskakarolina/portfolio/blob/main/json%20placeholder.postman_collection.json)
+* [REST API Examples 1](https://github.com/Milewskakarolina/portfolio/blob/main/REST%20API/json%20placeholder.postman_collection.json)
+* [REST API Examples 2](https://github.com/Milewskakarolina/portfolio/blob/main/REST%20API/trello.postman_collection.json)
