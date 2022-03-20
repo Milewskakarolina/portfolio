@@ -14,5 +14,8 @@ My name is Karolina Milewska. I graduated in Cosmetology at the Faculty of Medic
 * GIT
 ## Courses
 Software Tester SD Academy (in progress)
+## Test Case Examples
+https://docs.google.com/spreadsheets/d/1xxV1o4rE0wfo5t3F0Nc-PbBY750YWfJo/edit?usp=sharing&ouid=112853203756638553941&rtpof=true&sd=true
+## Bag Reports 
 
 
