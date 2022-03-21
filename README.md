@@ -21,7 +21,7 @@ My name is Karolina Milewska. I graduated in Cosmetology at the Faculty of Medic
 * Kurs tester manualny
 * Mamo pracuj w IT
 ## Test Case Examples
-* [Test cases Swag Labs](https://docs.google.com/spreadsheets/d/1xxV1o4rE0wfo5t3F0Nc-PbBY750YWfJo/edit?usp=sharing&ouid=112853203756638553941&rtpof=true&sd=true)
+* [Test cases Swag Labs](https://docs.google.com/spreadsheets/d/1SUwys7I8LcKHhzHq0Minwbckqmsiub9x/edit?usp=sharing&ouid=112853203756638553941&rtpof=true&sd=true)
 ## Bug Reports 
 * [Bug Reports](https://drive.google.com/file/d/1HGS44OyBvfHPPy8MH64dsTfwQz_8Y8Ia/view?usp=sharing)
 ## REST API Examples
